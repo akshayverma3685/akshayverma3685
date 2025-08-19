@@ -23,6 +23,14 @@ I enjoy experimenting with **Telegram, Discord, Instagram, AI-powered bots**, an
 
 ---
 
+## 📊 Skill Graph  
+
+![Akshay's Skill Graph](https://github-readme-stats.vercel.app/api?username=akshayverma3685&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Akshay's Skill Graph Radar](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=akshayverma3685&skills=Python,JavaScript,Java,C++,C#,Go,Kotlin,Rust,PHP,TypeScript,SQL,HTML,CSS&show-other-skills=true)
+
+---
+
 ## 🖥️ Languages  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
