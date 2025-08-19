@@ -12,22 +12,20 @@
 
 ## 🌈 About Me  
 
-Hi, I'm **Akshay Verma**! I am passionate about building intelligent bots, web apps, and automation tools that solve real-world problems.  
-I enjoy experimenting with **Telegram, Discord, Instagram, AI-powered bots**, and coding in multiple languages to bring creative ideas to life.  
+I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and AI Enthusiast** with a strong focus on building automation solutions, intelligent applications, and scalable systems.  
 
-💡 **Tech Interests & Skills:**  
-- **Frameworks & Tools:** Django, Flask, Node.js, Pyrogram, Telegram Bot API, Discord.js, Docker  
-- **Other Interests:** AI & ML Bots, Automation, Open Source Projects, Full-Stack Development  
+💼 **Professional Interests:**  
+- Designing and developing **Telegram, Discord & Instagram bots** with real-world use cases  
+- Exploring **AI, Machine Learning, and Automation workflows** to create impactful solutions  
+- Contributing to **open-source projects** and collaborating with the global developer community  
+- Developing **scalable full-stack applications** using modern frameworks and cloud technologies  
 
-> 💬 "I create smart bots and apps that automate life, make tasks fun, and solve real problems." 🤖  
+🌟 **Core Values & Approach:**  
+- **Innovation-Driven:** Transforming complex problems into simple, automated solutions  
+- **User-Centric:** Every project focuses on delivering value and enhancing user experience  
+- **Continuous Growth:** Constantly learning new technologies and adapting to emerging trends  
 
----
-
-## 📊 Skill Graph  
-
-![Akshay's Skill Graph](https://github-readme-stats.vercel.app/api?username=akshayverma3685&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Akshay's Skill Graph Radar](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=akshayverma3685&skills=Python,JavaScript,Java,C++,C#,Go,Kotlin,Rust,PHP,TypeScript,SQL,HTML,CSS&show-other-skills=true)
+📌 My vision is to **leverage AI + Automation + Full-Stack Development** to create technologies that simplify processes, empower individuals, and inspire innovation.  
 
 ---
 
