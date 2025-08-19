@@ -99,13 +99,13 @@ I enjoy experimenting with **Telegram, Discord, Instagram, AI-powered bots**, an
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/akshayverma3685/akshayverma3685/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/akshayverma3685/akshayverma3685/blob/output/snake.svg)    
 
 ---
 
 ## ⚡ Profile Metrics  
 
-![Metrics](https://metrics.lecoq.io/akshayverma3685?template=classic&base.indepth=true&base.hireable=true&config.timezone=Asia%2FCalcutta)  
+![Metrics](https://github.com/akshayverma3685/akshayverma3685/blob/main/github-metrics.svg) 
 
 ---
 
