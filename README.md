@@ -12,20 +12,14 @@
 
 ## 🌈 About Me  
 
-I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and AI Enthusiast** with a strong focus on building automation solutions, intelligent applications, and scalable systems.  
+Hi, I'm **Akshay Verma**! I am passionate about building intelligent bots, web apps, and automation tools that solve real-world problems.  
+I enjoy experimenting with **Telegram, Discord, Instagram, AI-powered bots**, and coding in multiple languages to bring creative ideas to life.  
 
-💼 **Professional Interests:**  
-- Designing and developing **Telegram, Discord & Instagram bots** with real-world use cases  
-- Exploring **AI, Machine Learning, and Automation workflows** to create impactful solutions  
-- Contributing to **open-source projects** and collaborating with the global developer community  
-- Developing **scalable full-stack applications** using modern frameworks and cloud technologies  
+💡 **Tech Interests & Skills:**  
+- **Frameworks & Tools:** Django, Flask, Node.js, Pyrogram, Telegram Bot API, Discord.js, Docker  
+- **Other Interests:** AI & ML Bots, Automation, Open Source Projects, Full-Stack Development  
 
-🌟 **Core Values & Approach:**  
-- **Innovation-Driven:** Transforming complex problems into simple, automated solutions  
-- **User-Centric:** Every project focuses on delivering value and enhancing user experience  
-- **Continuous Growth:** Constantly learning new technologies and adapting to emerging trends  
-
-📌 My vision is to **leverage AI + Automation + Full-Stack Development** to create technologies that simplify processes, empower individuals, and inspire innovation.  
+> 💬 "I create smart bots and apps that automate life, make tasks fun, and solve real problems." 🤖  
 
 ---
 
@@ -103,15 +97,36 @@ I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and 
 
 ---
 
-## 🧑‍💻 Dev Card  
+## 🤣 Dev Jokes  
 
-![Akshay's Dev Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshayverma3685&theme=tokyonight)  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)  
 
 ---
 
-## 📅 Weekly Development Breakdown  
+## 🎨 3D Contribution Calendar  
 
-![Akshay's Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshayverma3685&theme=tokyonight)  
+![3D Contributions](https://raw.githubusercontent.com/akshayverma3685/akshayverma3685/main/profile-3d-contrib/profile-night-rainbow.svg)  
+
+---
+
+## ⏳ Coding Hours (WakaTime)  
+
+![Akshay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshayverma3685&theme=tokyonight)  
+
+---
+
+## 📌 Pinned Projects  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayverma3685&repo=project-repo-name&theme=tokyonight)](https://github.com/akshayverma3685/project-repo-name)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayverma3685&repo=another-project&theme=tokyonight)](https://github.com/akshayverma3685/another-project)  
+
+---
+
+## 🛠️ Currently  
+
+![Learning](https://img.shields.io/badge/Learning-Next.js-blue?style=flat-square&logo=next.js)  
+![Building](https://img.shields.io/badge/Building-Telegram_Bots-green?style=flat-square&logo=telegram)  
+![Exploring](https://img.shields.io/badge/Exploring-AI_&_ML-orange?style=flat-square&logo=python)  
 
 ---
 
