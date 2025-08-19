@@ -123,8 +123,8 @@ I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and 
 
 ## 📌 Pinned Projects  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayverma3685&repo=project-repo-name&theme=tokyonight)](https://github.com/akshayverma3685/resume-analyzer)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayverma3685&repo=another-project&theme=tokyonight)](https://github.com/akshayverma3685/oneclick-installer-bot)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayverma3685&repo=resume-analyzer&theme=tokyonight)](https://github.com/akshayverma3685/resume-analyzer)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayverma3685&repo=oneclick-installer-bot&theme=tokyonight)](https://github.com/akshayverma3685/oneclick-installer-bot)  
 
 ---
 
