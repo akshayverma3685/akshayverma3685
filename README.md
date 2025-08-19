@@ -14,36 +14,27 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayverma3685&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=akshayverma3685&theme=radical)
 
 ---
 
 ## 🌟 Featured Bots
 | Bot | Description | Demo |
 |-----|-------------|------|
-| [SocialPipe Bot](https://github.com/USERNAME/socialpipe-bot) | Multi-social hub bot managing all accounts via Telegram | ![Demo](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif) |
-| [AI Chatbot](https://github.com/USERNAME/ai-chatbot) | Smart AI chatbot for Telegram & Discord | ![Demo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
-| [Instagram Auto Bot](https://github.com/USERNAME/instagram-bot) | Friendly automation & DM handling | ![Demo](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
+| [SocialPipe Bot](https://github.com/akshayverma3685/socialpipe-bot) | Multi-social hub bot managing all accounts via Telegram | ![Demo](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif) |
+| [AI Chatbot](https://github.com/akshayverma3685/ai-chatbot) | Smart AI chatbot for Telegram & Discord | ![Demo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
+| [Instagram Auto Bot](https://github.com/akshayverma3685/instagram-bot) | Friendly automation & DM handling | ![Demo](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
 
 ---
 
 ## 📫 Connect & Try Bots
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/USERNAME)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=ko-fi&logoColor=fff&style=for-the-badge)](https://USERNAME.github.io)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:USERNAME@gmail.com)
-[![Try Bots](https://img.shields.io/badge/-Try%20My%20Bots-brightgreen?style=for-the-badge)](https://USERNAME.github.io/bots)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:akshayverma3685@gmail.com)
+[![Try Bots](https://img.shields.io/badge/-Try%20My%20Bots-brightgreen?style=for-the-badge)](https://akshayverma3685.github.io/bots)
 
 ---
 
 ## ⚡ Fun Fact
 > "I build bots that automate life, make tasks fun, and solve real problems!" 🤖
-
----
-
-### 💡 Quick Tips
-1. Replace `USERNAME` with your GitHub username.  
-2. Replace bot links & demo GIFs with your actual projects.  
-3. Pin top 3–5 bots for visual appeal.  
-4. Keep contribution streak active → shows professionalism.  
-5. Customize badge colors/themes for personal branding.
