@@ -10,30 +10,27 @@
 
 ---
 
+
 ## 🌈 About Me  
 
-<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 20px; border-radius: 15px; box-shadow: 0px 0px 10px #444; color: white;">
+👋 Hey there! I'm **Akshay Verma** – a passionate **Bot Developer, Full-Stack Explorer & AI Enthusiast**.  
 
-👋 Hey there! I'm <b>Akshay Verma</b> – a passionate <b>Bot Developer, Full-Stack Explorer & AI Enthusiast</b>.  
+🔹 I love turning **ideas into code** and building automation tools, bots, and apps that actually **make life easier & fun**.  
+🔹 My playgrounds are **Telegram, Discord, Instagram & Web Apps**, where I enjoy experimenting with **AI-powered bots** and automation workflows.  
+🔹 I believe in **open source contribution** and constantly learning & sharing knowledge with the dev community.  
 
-🔹 I love turning <b>ideas into code</b> and building automation tools, bots, and apps that actually <b>make life easier & fun</b>.  
-🔹 My playgrounds are <b>Telegram, Discord, Instagram & Web Apps</b>, where I enjoy experimenting with <b>AI-powered bots</b> and automation workflows.  
-🔹 I believe in <b>open source contribution</b> and constantly learning & sharing knowledge with the dev community.  
+💡 **What makes me unique?**  
+- I don’t just code, I build **smart solutions** 🚀  
+- Always mixing creativity 🎨 with logic ⚡  
+- Pushing limits to explore **AI + Automation + Full-Stack** in innovative ways  
 
-💡 <b>What makes me unique?</b>  
-✅ I don’t just code, I build <b>smart solutions</b> 🚀  
-✅ Always mixing <b>creativity 🎨</b> with <b>logic ⚡</b>  
-✅ Pushing limits to explore <b>AI + Automation + Full-Stack</b> in innovative ways  
+✨ My motto: *“Code is not just to solve problems, but to create experiences that inspire.”*  
 
-✨ <i>“Code is not just to solve problems, but to create experiences that inspire.”</i>  
-
-</div>
+---  
 
 ---
 
 ## 🖥️ Languages  
-
-<div align="center" style="background: linear-gradient(135deg, #42275a, #734b6d); padding: 20px; border-radius: 15px; box-shadow: 0px 0px 10px #333;">
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -49,13 +46,9 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack & Tools  
-
-<div align="center" style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 20px; border-radius: 15px; box-shadow: 0px 0px 10px #333;">
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
@@ -70,25 +63,29 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats  
-
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px; box-shadow: 0px 0px 10px #222;">
 
 ![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayverma3685&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayverma3685&layout=compact&theme=tokyonight)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akshayverma3685&theme=tokyonight)  
 
-</div>
+---
+
+## 📈 Contribution Graph  
+
+![Akshay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshayverma3685&theme=react-dark)  
+
+---
+
+## 🏆 GitHub Achievements  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=akshayverma3685&theme=tokyonight&row=1&column=6)  
 
 ---
 
 ## 🌟 Featured Bots & Projects  
-
-<div align="center" style="background: linear-gradient(135deg, #000046, #1cb5e0); padding: 20px; border-radius: 15px; box-shadow: 0px 0px 10px #333;">
 
 <details>
   <summary>🚀 Click to Expand Projects</summary>
@@ -99,23 +96,27 @@
 
 </details>
 
-</div>
-
 ---
 
 ## 📰 Dev Quotes  
 
-<div align="center" style="background: linear-gradient(135deg, #42275a, #734b6d); padding: 20px; border-radius: 15px; box-shadow: 0px 0px 10px #333;">
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-</div>
+---
+
+## 🧑‍💻 Dev Card  
+
+![Akshay's Dev Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshayverma3685&theme=tokyonight)  
+
+---
+
+## 📅 Weekly Development Breakdown  
+
+![Akshay's Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshayverma3685&theme=tokyonight)  
 
 ---
 
 ## 📫 Connect With Me  
-
-<div align="center" style="background: linear-gradient(135deg, #232526, #414345); padding: 20px; border-radius: 15px; box-shadow: 0px 0px 10px #222;">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/akshayverma0212)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akshayverma3685)  
@@ -123,17 +124,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/akshayverma_0212)  
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black)](https://snapchat.com/add/akshayverma0212)  
 
-</div>
-
 ---
 
 ## 👀 Visitor Counter  
 
-<div align="center" style="background: linear-gradient(135deg, #485563, #29323c); padding: 20px; border-radius: 15px; box-shadow: 0px 0px 10px #222;">
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=akshayverma3685&label=Profile%20Views&color=blue&style=flat)  
-
-</div>
 
 ---
 
