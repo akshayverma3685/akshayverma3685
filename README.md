@@ -99,7 +99,7 @@ I enjoy experimenting with **Telegram, Discord, Instagram, AI-powered bots**, an
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/akshayverma3685/akshayverma3685/blob/output/snake.svg)    
+![Snake animation](https://raw.githubusercontent.com/akshayverma3685/akshayverma3685/output/snake.svg)    
 
 ---
 
