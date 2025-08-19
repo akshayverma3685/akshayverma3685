@@ -1,161 +1,129 @@
-<!-- Hero Banner (put your image at assets/banner.gif or replace the src) -->
-<p align="center">
-  <img src="assets/banner.gif" alt="Akshay Verma Banner" width="100%"/>
-</p>
+# 👋 Hi, I'm Akshay Verma  
 
-<h1 align="center">👋 Hi, I'm Akshay Verma</h1>
-<h3 align="center">🤖 Bot Developer | Full-Stack & AI Enthusiast | Automation & Open Source Contributor</h3>
+🤖 **Bot Developer | Full-Stack & AI Enthusiast | Automation & Open Source Contributor**  
 
 ---
 
-## 🌀 Typing Intro
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F700&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Akshay+Verma!;Bot+Developer+%7C+AI+Enthusiast;Automation+%26+Open+Source+Contributor;I+build+smart+bots+that+solve+real+problems)](https://git.io/typing-svg)
+## 🌀 Typing Intro  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hi%2C+I'm+Akshay+Verma!;Bot+Developer+%7C+AI+Enthusiast;Automation+%26+Open+Source+Contributor)](https://git.io/typing-svg)  
 
 ---
 
-## 🌈 About Me
-```bash
-> akshayverma --info
-Name: Akshay Verma
-Role: Bot Developer | Full Stack Enthusiast
-Focus: Telegram/Discord/Instagram Bots • AI/Automation • Scalable Web Apps
-Languages: Python, JavaScript/TypeScript, C++, Java, Go, Kotlin
-Hobbies: Automating Life 🤖, Building Tools, Learning Daily
+## 🌈 About Me  
 
-> "I create smart bots and apps that automate life, make tasks fun, and solve real problems." 🤖
+Hi, I'm **Akshay Verma**! I am passionate about building intelligent bots, web apps, and automation tools that solve real-world problems.  
+I enjoy experimenting with **Telegram, Discord, Instagram, AI-powered bots**, and coding in multiple languages to bring creative ideas to life.  
 
+💡 **Tech Interests & Skills:**  
+- **Frameworks & Tools:** Django, Flask, Node.js, Pyrogram, Telegram Bot API, Discord.js, Docker  
+- **Other Interests:** AI & ML Bots, Automation, Open Source Projects, Full-Stack Development  
 
-
+> 💬 "I create smart bots and apps that automate life, make tasks fun, and solve real problems." 🤖  
 
 ---
 
-💻 Programming Languages
+## 🖥️ Languages  
 
-<!-- 10–12 languages, neon/glow badge look -->            
-
-
----
-
-🛠️ Tech Stack & Tools
-
-<!-- Animated/clean SVG icons grid --><p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" alt="telegram" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="discord" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="60" height="60"/>
-</p>
----
-
-📊 GitHub Stats
-
-  
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
 
 ---
 
-📈 Activity Graph
+## 🛠️ Tech Stack & Tools  
 
-
-
-
----
-
-🏆 GitHub Achievements
-
-
-
-
----
-
-🐍 Contribution Snake
-
-<!-- Ensure you have the GitHub Action set up to generate this SVG (snake.yml) -->
-
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
 ---
 
-🧊 3D Contribution Graph
+## 📊 GitHub Stats  
 
-<!-- Create the 3D profile repo/output first or adjust the path below -->
-
-
----
-
-🎶 Spotify Now Playing
-
-
-
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayverma3685&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayverma3685&layout=compact&theme=tokyonight)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akshayverma3685&theme=tokyonight)  
 
 ---
 
-📕 Latest Blog Posts
+## 📈 Contribution Graph  
 
-<!-- Connect your RSS via a workflow (eg. blog-post-workflow) --><!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+![Akshay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshayverma3685&theme=react-dark)  
+
 ---
 
-🌟 Featured Bots & Projects
+## 🏆 GitHub Achievements  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=akshayverma3685&theme=tokyonight&row=1&column=6)  
+
+---
+
+## 🌟 Featured Bots & Projects  
 
 <details>
-  <summary>🚀 Click to Expand Projects</summary>Bot / Project	Description	Demo
+  <summary>🚀 Click to Expand Projects</summary>
 
-SocialPipe Bot	Multi-social hub bot managing all accounts via Telegram	🤖
-AI Chatbot	Intelligent AI chatbot for Telegram & Discord	🤖
-Instagram Auto Bot	Friendly automation & DM handling bot for Instagram	🤖
-
+  - **SocialPipe Bot** → Multi-social hub bot managing all accounts via Telegram  
+  - **AI Chatbot** → Intelligent AI chatbot for Telegram & Discord  
+  - **Instagram Auto Bot** → Friendly automation & DM handling bot for Instagram  
 
 </details>
----
-
-📰 Developer Quote
-
-
-
 
 ---
 
-🌍 Visitors World Map
+## 📰 Dev Quotes  
 
-
-
-
----
-
-😂 Random Dev Meme
-
-
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ---
 
-📫 Connect With Me
+## 🐍 Contribution Snake  
 
-    
-
-
----
-
-👀 Visitor Counter
-
-
-
+![Snake animation](https://github.com/akshayverma3685/akshayverma3685/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
-⚡ Fun Fact
+## ⚡ Profile Metrics  
 
+![Metrics](https://metrics.lecoq.io/akshayverma3685?template=classic&base.indepth=true&base.hireable=true&config.timezone=Asia%2FCalcutta)  
+
+---
+
+## 📫 Connect With Me  
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/akshayverma0212)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akshayverma3685)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/akshayverma_0212)  
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black)](https://snapchat.com/add/akshayverma0212)  
+
+---
+
+## 👀 Visitor Counter  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=akshayverma3685&label=Profile%20Views&color=blue&style=flat)  
+
+---
+
+⚡ **Fun Fact:**  
 > "I love building bots, web apps, and automation tools that solve real-world problems and make tech fun!" 🤖
-
-
-
-
-
