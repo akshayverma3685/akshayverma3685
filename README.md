@@ -1,12 +1,12 @@
-<!-- Typing SVG Banner -->
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F707&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akshay+Verma!+👋;Bot+Developer+%7C+Full-Stack+Engineer;AI+%26+Automation+Enthusiast;Open+Source+Contributor;Turning+Ideas+into+Reality+🚀">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F707&center=true&vCenter=true&width=600&lines=Hi+I'm+Akshay+Verma!+👋;Bot+Developer+%7C+Full-Stack+Engineer;AI+%26+Automation+Enthusiast;Open+Source+Contributor;Turning+Ideas+into+Reality+🚀">
 </p>
 
-<!-- Cool Divider -->
+<!-- Banner -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-# 👨‍💻 About Me
+# 👨‍💻 About Me  
 Hi, I'm **Akshay Verma**!  
 ⚡ Passionate about **Bots, AI, and Full-Stack Development**.  
 💡 I love creating **intelligent bots, automation tools, and open-source projects**.  
@@ -17,20 +17,20 @@ Hi, I'm **Akshay Verma**!
 ## 🛠 Tech Stack & Tools  
 
 ### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
 
 ### 🚀 Frameworks & Tools  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Telegram](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)  
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)  
 
 ---
 
@@ -72,28 +72,7 @@ Hi, I'm **Akshay Verma**!
 
 ---
 
-## 📈 Auto-Updating Widgets  
-
-### ⌛ WakaTime Coding Stats  
-<!--START_SECTION:waka-->
-```txt
-💻 Languages:
-Python       ████████████████░░░░░░   60%
-JavaScript   ████████░░░░░░░░░░░░░░   30%
-Other        ██░░░░░░░░░░░░░░░░░░░░   10%
-
-<!--END_SECTION:waka-->🌐 Most Used Languages
-
-
-
-📜 Random Dev Quote
-
-
-
-
----
-
-📫 Connect with Me
+## 📫 Connect with Me  
 
 <p align="center">
   <a href="mailto:akshayverma3685@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -101,8 +80,8 @@ Other        ██░░░░░░░░░░░░░░░░░░░░ 
   <a href="https://instagram.com/akshayverma_0212"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://akshayverma3685.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
+
 ---
 
-⚡ Fun Quote
-
+## ⚡ Fun Quote  
 > "I love building bots, apps, and automation tools that solve real problems and make tech fun!" 🤖
