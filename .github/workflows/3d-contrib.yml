@@ -2,7 +2,7 @@ name: Generate 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # har raat 12 baje run hoga
   workflow_dispatch:
 
 jobs:
@@ -14,11 +14,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate 3D contribution svgs
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      # Step 1: Contribution data generate (needs token)
+      - name: Generate profile data
+        uses: yoshi389111/github-profile-3d-contrib@0.10.1
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Step 2: 3D SVG render
+      - name: Generate 3D SVG
+        run: |
+          npm install -g github-profile-3d-contrib
+          github-profile-3d-contrib --no-fetch
+
+      # Step 3: Commit & push
       - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
