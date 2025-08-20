@@ -191,11 +191,17 @@ I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and 
 
 ---
 
-<div align="center">
+## 🎵 Recently Played on Spotify  
+
+<p align="center">
   <a href="https://open.spotify.com/user/31fnghvzo4kpd6t2khcrcmvqcmnq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fnghvzo4kpd6t2khcrcmvqcmnq&count=5&unique=true" alt="Spotify recently played" />
+    <img 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=31fnghvzo4kpd6t2khcrcmvqcmnq&count=5&unique=true" 
+      alt="Spotify recently played"
+      style="max-width: 100%; height: auto; border-radius: 12px;"
+    />
   </a>
-</div>
+</p>
 
 ---
 
