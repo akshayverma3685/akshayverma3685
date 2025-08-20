@@ -119,7 +119,7 @@ I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and 
 
 ## 🎨 3D Contribution Calendar  
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg) 
+![3D Contributions](https://raw.githubusercontent.com/akshayverma3685/akshayverma3685/main/profile-3d-contrib/profile-night-view.svg) 
 
 ---
 
