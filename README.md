@@ -1,13 +1,24 @@
-## ☁️ Cloud & DevOps Tools  
+## ☁️ Cloud & DevOps Tools
 
-<p align="center">
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="48"/></a>
-  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" height="48"/></a>
-  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" height="48"/></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="48"/></a>
-  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" height="48"/></a>
-</p>
+<div align="center" style="border: 2px solid #2f2f2f; border-radius: 12px; padding: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); display: inline-block;">
 
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /></a>
+<a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /></a>
+<a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /></a>
+<a href="https://vercel.com/"><img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a>
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+<a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" /></a>
+<a href="https://nginx.org/"><img src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" /></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a>
+<a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /></a>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></a>
+
+</div>
 
 # 👋 Hi, I'm Akshay Verma  
 
