@@ -1,0 +1,22 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule: # Roz raat 12 baje run hoga
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Manually run karne ke liye
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: akshayverma3685
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A .
+          git commit -m "generated"
+          git push
