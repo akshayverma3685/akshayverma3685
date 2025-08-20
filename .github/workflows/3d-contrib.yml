@@ -2,68 +2,27 @@ name: Generate 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
-# Avoid overlapping runs
-concurrency:
-  group: contrib-3d
-  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # REQUIRED to push generated files
+      contents: write
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          # use the default GITHUB_TOKEN for push
-          persist-credentials: true
-          fetch-depth: 0
-
-      - name: Confirm branch + setup git
-        run: |
-          echo "github.ref: $GITHUB_REF"
-          echo "github.ref_name: $GITHUB_REF_NAME"
-          echo "Default branch (guess): ${GITHUB_REF_NAME:-main}"
-          git branch -a
-          # Ensure we are on a named branch (not detached)
-          CURRENT="${GITHUB_REF_NAME:-main}"
-          git checkout -B "$CURRENT"
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - uses: actions/checkout@v4
 
       - name: Generate 3D contribution svgs
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
-          username: akshayverma3685
-
-      - name: Show generated files (diagnostic)
-        run: |
-          echo "PWD: $(pwd)"
-          if [ -d "profile-3d-contrib" ]; then
-            ls -la profile-3d-contrib
-          else
-            echo "❌ Folder 'profile-3d-contrib' not created."
-            exit 2
-          fi
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & push changes
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "chore: generate 3D contribution calendar"
-            git push
-          fi
-
-      - name: Upload svgs as artifact (for debugging/viewing)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: profile-3d-contrib
-          path: profile-3d-contrib/**
+          git diff --cached --quiet || git commit -m "chore: generate 3D contribution calendar"
+          git push
