@@ -133,7 +133,7 @@ I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and 
 
 ## 📌 Pinned Projects  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayverma3685&repo=resume-analyzer&theme=tokyonight)](https://github.com/akshayverma3685/resume-analyzer)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayverma3685&repo=akshayverma3685&theme=tokyonight)](https://github.com/akshayverma3685/akshayverma3685)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayverma3685&repo=oneclick-installer-&theme=tokyonight)](https://github.com/akshayverma3685/oneclick-installer-)  
 
 ---
@@ -153,6 +153,14 @@ I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/akshayverma_0212)  
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black)](https://snapchat.com/add/akshayverma0212)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourportfolio.com)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/username)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@username)  
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/username/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username)
 
 ---
 
