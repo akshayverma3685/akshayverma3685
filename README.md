@@ -4,12 +4,6 @@
 
 ---
 
-## 🌀 Typing Intro  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hi%2C+I'm+Akshay+Verma!;Bot+Developer+%7C+AI+Enthusiast;Automation+%26+Open+Source+Contributor)](https://git.io/typing-svg)  
-
----
-
 ## 🌈 About Me  
 
 I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and AI Enthusiast** with a strong focus on building automation solutions, intelligent applications, and scalable systems.  
@@ -126,12 +120,6 @@ I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and 
 ## 🎨 3D Contribution Calendar  
 
 ![3D Contributions](https://raw.githubusercontent.com/akshayverma3685/akshayverma3685/main/profile-3d-contrib/profile-night-rainbow.svg)  
-
----
-
-## ⏳ Coding Hours (WakaTime)  
-
-![Akshay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshayverma3685&theme=tokyonight&v=1) 
 
 ---
 
