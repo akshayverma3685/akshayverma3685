@@ -50,28 +50,25 @@ I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and 
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" /></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="28" /></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="28" /></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" height="28" /></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" /></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="28" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" /></a>
-  <a href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28" /></a>
-  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" /></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" /></a>
-</p>
-
-<p align="center">
-  <a href="https://graphql.org/"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="28" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" /></a>
-  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="28" /></a>
-  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" /></a>
-  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" height="28" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="25"/></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="25"/></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="25"/></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="25"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="25"/></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="25"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="25"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="25"/></a>
+  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="25"/></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="25"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="25"/></a>
+  <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" height="25"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" height="25"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" height="25"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25"/></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25"/></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="25"/></a>
+  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" height="25"/></a>
 </p>
 
 ---
