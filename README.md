@@ -1,10 +1,3 @@
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31fnghvzo4kpd6t2khcrcmvqcmnq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fnghvzo4kpd6t2khcrcmvqcmnq&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
 # 👋 Hi, I'm Akshay Verma  
 
 🤖 **Bot Developer | Full-Stack & AI Enthusiast | Automation & Open Source Contributor**  
@@ -195,6 +188,14 @@ I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and 
 ## 👀 Visitor Counter  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=akshayverma3685&label=Profile%20Views&color=blue&style=flat)  
+
+---
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31fnghvzo4kpd6t2khcrcmvqcmnq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fnghvzo4kpd6t2khcrcmvqcmnq&count=5&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
 
 ---
 
