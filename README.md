@@ -1,3 +1,10 @@
+
+<div align="center">
+  <a href="https://open.spotify.com/user/akshayverma3685">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=akshayverma3685&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
 # 👋 Hi, I'm Akshay Verma  
 
 🤖 **Bot Developer | Full-Stack & AI Enthusiast | Automation & Open Source Contributor**  
