@@ -131,7 +131,7 @@ I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and 
 
 ## ⏳ Coding Hours (WakaTime)  
 
-![Akshay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshayverma3685&theme=tokyonight)  
+![Akshay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshayverma3685&theme=tokyonight&v=1) 
 
 ---
 
