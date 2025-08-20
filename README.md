@@ -147,20 +147,6 @@ I’m **Akshay Verma**, a passionate **Bot Developer, Full-Stack Developer, and 
 ---
 
 ## 📫 Connect With Me  
-
-<div align="center">
-
-<style>
-.badge-hover img {
-  border-radius: 8px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-.badge-hover img:hover {
-  transform: scale(1.1);
-  box-shadow: 0px 4px 12px rgba(0,0,0,0.3);
-}
-</style>
-
 ### 🌐 Professional Profiles  
 <span class="badge-hover">
 <a href="https://t.me/akshayverma0212"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
