@@ -1,3 +1,14 @@
+## ☁️ Cloud & DevOps Tools  
+
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="48"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" height="48"/></a>
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" height="48"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="48"/></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" height="48"/></a>
+</p>
+
+
 # 👋 Hi, I'm Akshay Verma  
 
 🤖 **Bot Developer | Full-Stack & AI Enthusiast | Automation & Open Source Contributor**  
